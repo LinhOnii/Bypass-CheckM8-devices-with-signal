@@ -1,0 +1,190 @@
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\obj\Debug\HFZ Universal Activator 2.6.csproj.AssemblyReference.cache
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\obj\Debug\HFZ Universal Activator 2.6.csproj.GenerateResource.cache
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\obj\Debug\HFZ Universal Activator 2.6.csproj.CoreCompileInputs.cache
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Guna.UI2.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\MobileDevice.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\SaaUI.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\obj\Debug\HFZ Universal Activator 2.6.csproj.CopyComplete
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\TinyHome.Renci.SshNet.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\EasyHttp.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\JsonFx.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\EasyHttp.pdb
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\JsonFx.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\obj\Debug\jaguarTools.Properties.Resources.resources
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\obj\Debug\JaguarTools_2._1.Form1.resources
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\obj\Debug\JaguarTools_2._1.Form2.resources
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\plist-cil.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.Buffers.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.Memory.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\plist-cil.pdb
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.Buffers.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.Memory.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\obj\Debug\jaguarTools.Form3.resources
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Nerdbank.Streams.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.ValueTuple.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\Nerdbank.Streams.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\System.ValueTuple.xml
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\ZEUS Activator MEID-GSM.exe.config
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\ZEUS Activator MEID-GSM.exe
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\bin\Debug\ZEUS Activator MEID-GSM.pdb
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\obj\Debug\ZEUS Activator MEID-GSM.exe
+C:\Users\Brayan-Villa\source\repos\HFZ Universal Activator 2.6\HFZ Universal Activator 2.6\obj\Debug\ZEUS Activator MEID-GSM.pdb
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\ZEUS Activator MEID-GSM.exe.config
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\ZEUS Activator MEID-GSM.exe
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\ZEUS Activator MEID-GSM.pdb
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\EasyHttp.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\JsonFx.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Nerdbank.Streams.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\plist-cil.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\EasyHttp.pdb
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\JsonFx.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Nerdbank.Streams.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\plist-cil.pdb
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\obj\Debug\HFZ Universal Activator 2.6.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\obj\Debug\JaguarTools_2._1.Form1.resources
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\obj\Debug\JaguarTools_2._1.Form2.resources
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\obj\Debug\jaguarTools.Form3.resources
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\obj\Debug\jaguarTools.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\obj\Debug\HFZ Universal Activator 2.6.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\obj\Debug\HFZ Universal Activator 2.6.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\obj\Debug\HFZ Univ.E3EC52C5.Up2Date
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\obj\Debug\ZEUS Activator MEID-GSM.exe
+C:\Users\Administrator\Desktop\Proyect\HFZ Universal Activator 2.6\obj\Debug\ZEUS Activator MEID-GSM.pdb
