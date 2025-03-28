@@ -1,4 +1,5 @@
 # **HFZ Universal Activator 2.6** 🚀
+![image](https://github.com/user-attachments/assets/dcc93d1c-4cd3-41f7-9915-f1212599edce)
 
 ## **Introduction** 
 
